@@ -14,6 +14,6 @@ public class IndexController {
 
     @GetMapping
     public String index(){
-        return "spring boot......k8s";
+        return "spring boot......k8s ...deployment";
     }
 }
